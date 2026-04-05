@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PerfomanceMultiThreading": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
